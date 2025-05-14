@@ -1,10 +1,9 @@
-# Logger Class
+# Logger
 
 A lightweight, configurable C++ logging utility designed for easy extension and customization.
 
 ## Features
 
-- Singleton pattern for easy global access
 - Multiple log levels (DEBUG, INFO, WARNING, ERROR, FATAL, TODO)
 - Console output with optional ANSI colors
 - Automatic file logging with timestamps
